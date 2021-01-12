@@ -1,0 +1,7 @@
+####### 配置中心 #######
+web                 :JYWebViewController  #webview h5页面
+
+test                :ViewController   #test
+test1               :Test1ViewController  #test1
+test2               :Test2ViewController  #test2
+test3               :Test3ViewController  #test3
