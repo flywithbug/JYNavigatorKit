@@ -16,10 +16,10 @@ Pod::Spec.new do |s|
         app 
                        DESC
 
-  s.homepage         = 'https://github.com/flywithbug/JYNavigator'
+  s.homepage         = 'https://github.com/flywithbug/JYNavigatorKit.git'
   s.license          = 'MIT'
   s.author           = { 'flywithbug' => 'flywithbug@gmail.com' }
-  s.source           = { :git => 'https://github.com/flywithbug/JYNavigator.git', :tag => s.version }
+  s.source           = { :git => 'https://github.com/flywithbug/JYNavigatorKit.git', :tag => s.version }
 
   s.ios.deployment_target = '10.0'
   s.static_framework = true
